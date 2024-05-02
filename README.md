@@ -1,3 +1,3 @@
 # 80
 # 
-SELECT * FROM users WHERE age > 35;
+SELECT * FROM users WHERE age > 36;
